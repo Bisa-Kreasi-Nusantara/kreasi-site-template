@@ -7,7 +7,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 - **%attribute_site_title%** for site title
 - **%attribute_site_description%** for site meta descriptions
-- - **%attribute_site_keyword%** for site meta keyword
+- **%attribute_site_keyword%** for site meta keyword
 - **%attribute_btn_cta_link%** for CTA button link on section CTA
 - **%attribute_btn_cta%** for CTA button text on section CTA
 - **%attribute_instagram_link%** for instagram link on section CTA
