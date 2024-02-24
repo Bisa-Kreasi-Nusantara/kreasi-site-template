@@ -35,16 +35,16 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 	"attribute_site_title": "Bisakreasi Food",
 	"attribute_site_description": "Bisakreasi Food adalah ...",
 	"attribute_site_keyword": "makanan, cepat, saji",
-	"attribute_btn_cta_link": "https://wa.me/6285883679410",
+	"attribute_btn_cta_link": "#",
 	"attribute_btn_cta": "Pesan Sekarang",
-	"attribute_instagram_link": "https://instagram.com/cilokudahbasi_",
-	"attribute_facebook_link": "https://facebook.com/adityanurdin0",
-	"attribute_youtube_link": "https://youtube.com/c/adityanurdin0",
-	"attribute_tiktok_link": "https://tiktok.com/cilokudahbasi_",
-	"attribute_img_link_cta": "https://image.com/asd.png",
+	"attribute_instagram_link": "#",
+	"attribute_facebook_link": "#",
+	"attribute_youtube_link": "#",
+	"attribute_tiktok_link": "#",
+	"attribute_img_link_cta": "#",
 	"attribute_site_description_title": "Jajanan Sehat ala Bisakreasi Food",
 	"attribute_site_description_subtitle": "Ini sebuah deskripsi yang akan memberikan penjelasan website kamu dengan ringkas",
-	"attribute_description_img_link": "https://image.com/asd.png",
+	"attribute_description_img_link": "#",
 	"attribute_review_title": "Apa Kata Yang Suka Jajan?",
 	"attribute_review_subtitle": "Banyak loh yang suka jajanan kami",
 	"attribute_reviewer": [
@@ -61,10 +61,10 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 			"attribute_reviewer_text": "Bikin nagih ini jajanan"
 		}
 	],
-    "attribute_favorite_img_link": "https://image.com/asd.png",
+    "attribute_favorite_img_link": "#",
 	"attribute_favorite_title": "Jajanan Unggulan BisaKreasi FOOD",
 	"attribute_favorite_subtitle": "Ini deskripsinya ada disiini bisa diisi dengan isi-isian",
-	"attribute_favorite_btn_link": "https://wa.me/6285883679410",
+	"attribute_favorite_btn_link": "#",
 	"attribute_favorite_btn_text": "Pesan Sekarang"
 }
  ```
