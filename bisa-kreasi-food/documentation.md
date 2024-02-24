@@ -16,7 +16,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 - **%attribute_tiktok_link%** for tiktok link on section CTA
 - **%attribute_img_link_cta%** for image on section CTA
 - **%attribute_site_description_title%** for descriptions title on section description
-- **%attribute_site_description%** for descriptions on section description
+- **%attribute_site_description_subtitle%** for descriptions subtitle on section description
 - **%attribute_description_img_link%** for description image on section description
 - **%attribute_review_title%** for review title on section review
 - **%attribute_review_subtitle%** for review subtitle on section review
@@ -33,7 +33,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 ```
 {
 	"attribute_site_title": "Bisakreasi Food",
-	"attribute_site_description": "Bisakreasi Food adalah ..."
+	"attribute_site_description": "Bisakreasi Food adalah ...",
 	"attribute_site_keyword": "makanan, cepat, saji",
 	"attribute_btn_cta_link": "https://wa.me/6285883679410",
 	"attribute_btn_cta": "Pesan Sekarang",
@@ -43,7 +43,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 	"attribute_tiktok_link": "https://tiktok.com/cilokudahbasi_",
 	"attribute_img_link_cta": "https://image.com/asd.png",
 	"attribute_site_description_title": "Jajanan Sehat ala Bisakreasi Food",
-	"attribute_site_description": "Ini sebuah deskripsi yang akan memberikan penjelasan website kamu dengan ringkas",
+	"attribute_site_description_subtitle": "Ini sebuah deskripsi yang akan memberikan penjelasan website kamu dengan ringkas",
 	"attribute_description_img_link": "https://image.com/asd.png",
 	"attribute_review_title": "Apa Kata Yang Suka Jajan?",
 	"attribute_review_subtitle": "Banyak loh yang suka jajanan kami",
